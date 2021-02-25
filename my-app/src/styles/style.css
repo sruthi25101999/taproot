@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: whitesmoke;
+}
+
+.header{
+    color: maroon;
+    text-align: left;
+    font-size: 40px;
+    font-family: RocknRoll One;
+    padding-left: 20px;
+}
